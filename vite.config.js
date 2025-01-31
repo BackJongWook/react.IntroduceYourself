@@ -9,6 +9,9 @@ export default defineConfig({
       { find: "@", replacement: "/src" },
       { find: "@utiles", replacement: "/src/utiles" },
       { find: "@pages", replacement: "/src/pages" },
+      { find: "@provider", replacement: "/src/provider" },
+      { find: "@jotai", replacement: "/src/jotai" },
+      { find: "@hook", replacement: "/src/hook" },
     ],
   }
 })

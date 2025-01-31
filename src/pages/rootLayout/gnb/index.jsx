@@ -2,7 +2,7 @@
 export function Gnb(){
 
     return(<>
-        
+           
     
     </>)
 }
